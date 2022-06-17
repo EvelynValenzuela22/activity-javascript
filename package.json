@@ -1,0 +1,15 @@
+{
+  "name": "activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array.prototype.group": "^1.1.1",
+    "array.prototype.groupby": "^1.1.0"
+  }
+}
